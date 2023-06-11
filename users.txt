@@ -1,0 +1,6 @@
+1,hasan,mercedes
+2,yigit,12345
+3,enes,102
+4,tolga,42069
+5,deniz,1337
+6,arda,atogus
